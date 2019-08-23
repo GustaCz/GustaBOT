@@ -1,6 +1,6 @@
 const Discord = require('discord.js');
 const client = new Discord.Client({disableEveryone: true});
-const token = 'NTYwNTAyMDU2ODIxOTgxMTk1.D306fA.BYzBpn4N-PADsw-wwQ45PgqOfXg';
+const token = 'yourtokenhere';
 const config = require("./config_test.json");
 const request = require('request');
 client.login(token);
