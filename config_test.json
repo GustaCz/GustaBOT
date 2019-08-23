@@ -1,0 +1,18 @@
+{
+"imgflipCaption": "https://api.imgflip.com/caption_image",
+"Memes": {
+    "template_id": "",
+    "username": "GraveFetcher",
+    "password": "CaltropBot",
+	"font": "arial",
+	"boxes": [{
+        "text": " ",
+        "x": 50,
+        "y": 250,
+        "width": 723,
+        "height": 499,
+        "color": "#ffffff",
+        "outline_color": "#000000"
+		}]
+	}
+}
